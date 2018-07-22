@@ -7,7 +7,7 @@ body {
     background: -moz-linear-gradient(-45deg, rgba(120,144,156,1) 0%, rgba(84,110,122,1) 100%);
     background: -webkit-linear-gradient(-45deg, rgba(120,144,156,1) 0%,rgba(84,110,122,1) 100%);
     background: linear-gradient(135deg, rgba(120,144,156,1) 0%,rgba(84,110,122,1) 100%);
-    height: 450px;
+    height: 250px;
     font-size: 48px;
     font-family: Lato;
     display:flex;
@@ -17,7 +17,7 @@ body {
     color: #fff;
 }
 .projectbox {
-    width: 75%;
+    width: 90%;
     border-width: 2px;
     padding: 5px;
     border-style: solid;
@@ -25,7 +25,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .button {
     background: rgb(120,144,156); 
